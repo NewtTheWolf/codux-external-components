@@ -1,0 +1,220 @@
+{
+  "name": "Flowbite-React",
+  "components": [
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Accordion",
+      "name": "Accordion"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Alert",
+      "name": "Alert"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Avatar",
+      "name": "Avatar"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Badge",
+      "name": "Badge"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Banner",
+      "name": "Banner"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Blockquote",
+      "name": "Blockquote"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Breadcrumb",
+      "name": "Breadcrumb"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Button",
+      "name": "Button"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Card",
+      "name": "Card"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Carousel",
+      "name": "Carousel"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Checkbox",
+      "name": "Checkbox"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "DarkThemeToggle",
+      "name": "DarkThemeToggle"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Datepicker",
+      "name": "Datepicker"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Dropdown",
+      "name": "Dropdown"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "FileInput",
+      "name": "FileInput"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Floating",
+      "name": "Floating"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "FloatingLabel",
+      "name": "FloatingLabel"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Flowbite",
+      "name": "Flowbite"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Footer",
+      "name": "Footer"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "HelperText",
+      "name": "HelperText"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Kbd",
+      "name": "Kbd"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Label",
+      "name": "Label"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "List",
+      "name": "List"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "ListGroup",
+      "name": "ListGroup"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Modal",
+      "name": "Modal"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Navbar",
+      "name": "Navbar"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Pagination",
+      "name": "Pagination"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Progress",
+      "name": "Progress"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Radio",
+      "name": "Radio"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "RangeSlider",
+      "name": "RangeSlider"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Rating",
+      "name": "Rating"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Select",
+      "name": "Select"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Sidebar",
+      "name": "Sidebar"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Spinner",
+      "name": "Spinner"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Table",
+      "name": "Table"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Tabs",
+      "name": "Tabs"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Textarea",
+      "name": "Textarea"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "TextInput",
+      "name": "TextInput"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "ThemeModeScript",
+      "name": "ThemeModeScript"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Timeline",
+      "name": "Timeline"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Toast",
+      "name": "Toast"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "ToggleSwitch",
+      "name": "ToggleSwitch"
+    },
+    {
+      "filePath": "flowbite-react",
+      "exportName": "Tooltip",
+      "name": "Tooltip"
+    }
+  ]
+}
